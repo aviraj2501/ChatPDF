@@ -6,7 +6,7 @@ The ChatPDF App is a Python tool designed for conversing with multiple PDF docum
 
 ## How It Works
 ------------
-![Alt text]("C:\Users\admin\Downloads\PDF-LangChain.jpg")
+![PDF-LangChain](https://github.com/aviraj2501/ChatPDF/assets/148218162/90bdcfa4-dce1-4ccb-a78e-eebd0e6a590f)
 
 The application follows these steps to provide responses to your questions:
 
